@@ -1,2 +1,1 @@
-# Data-Modeling-with-Postgres-Json
- 
+# Udacity-Data-Engineering-Nanodegree
